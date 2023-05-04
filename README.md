@@ -30,127 +30,240 @@ This C# course is designed for absolute beginners in mind! It assumes ZERO exper
 [Curriculum]
 
 Introduction
+
 0-1. Is This The C# Course For You? (Free to Watch)
+
 0-2. About The Instructor
+
 0-3. What is C#? and Why Learn C#? (Free to Watch)
+
 0-4. Downloading and Installing Visual Studio (C# IDE)
 
+
 The Basics - Getting Started!
+
 1-1. Hello World (Mr. Beast Logo)
+
 1-2. Variables
+
 1-3. Data Types
+
 1-4. C# - A Strongly Statically Typed Language
+
 1-5. Working with Strings and Substrings
+
 1-6. Working with Numbers
+
 1-7. Getting User Input
+
 1-8. EXERCISE - The Number Multiplier
 
+
 Methods
+
 2-1. Methods
+
 2-2. Method Parameters
+
 2-3. Method Returns
+
 2-4. Method Overloading
 
+
 Comments and XML Summary Tags
+
 3-1. Learn all about comments and XML summary tags in C#!
 
+
 Conditions and Operators
+
 4-1. If and Else Statements
+
 4-2. Else If Statements
+
 4-3. Equality and Inequality Operators
+
 4-4. Comparison Operators
+
 4-5. Boolean Operators
+
 4-6. EXERCISE - Building a Calculator
+
 4-7. Switch Statements
+
 4-8. Conditional Operators
 
+
 Arrays
+
 5-1. Arrays and Collections
 
+
 Loops and Iteration
+
 6-1. While Loops
+
 6-2. Do While Loops
+
 6-3. For Loops
+
 6-4. For Loops vs While Loops
+
 6-5. Foreach Loops
+
 6-6. EXERCISE - Draw a Cube
 
+
 Control Flow
+
 7-1. The break Statement
+
 7-2. The continue Statement
 
+
+
 Misc Learning 1
+
 8-1. Exception Handling (try, catch, finally)
+
 8-2. 2D, 3D and Multidimensional Arrays
+
 8-3. EXERCISE - Chess - Find the Queen
+
 8-4. Lists
 
+
+
 Object Orientating Programming (O-O)
-9-1. O-O, Classes and Objects (Free to Watch)
+
+9-1. O-O, Classes and Objects
+
 9-2. Constructors
+
 9-3. Object Methods
+
 9-4. Access Modifiers (public, private, etc)
+
 9-5. Properties
+
 9-6. Inheritance
+
 9-7. Method Overriding (Polymorphism)
+
 9-8. Multilevel Inheritance
+
 9-9. The sealed Keyword
+
 9-10. Abstract Classes and Abstract Methods
+
 9-11. The this Keyword
+
 9-12. The base Keyword and base Class Constructors
+
 9-13. Interfaces
-9-14. O-O Summary (Free to Watch)
+
+9-14. O-O Summary
+
+
 
 Misc Learning 2
+
 10-1. EXERCISE - Drawing Pyramids
+
 10-2. Solutions, Multiple Projects and Namespaces
 
+
+
 Debugging
+
 11-1. Breakpoints and Code Stepping (Also: Run to Click and Run to Cursor)
+
 11-2. Immediate Window
+
 11-3. Locals and Autos Windows
+
 11-4. Watch Windows and Quick Watch
 
+
+
 Misc Learning 3
+
 12-1. The protected Access Modifier
+
 12-2. The static Keyword
 
+
+
 Immutable Data Types
+
 13-1. The readonly Keyword
+
 13-2. The const Keyword
 
+
+
 The Stack and Heap
+
 14-1. Stack and Heap Memory (Stack Overflow and the Call Stack)
+
 14-2. Method Parameters - Passing by Value
+
 14-3. Method Parameters - Passing by Reference (The ref Keyword)
 
+
+
 Structures
+
 15. The struct Keyword
 
 Objects, Dynamic and Anonymous
+
 16-1. The object Data Type - Boxing and Unboxing
+
 16-2. The dynamic keyword and Dynamic Type Checking (object Data Type Part 2 - Static Type Checking, Early and Late Binding)
+
 16-3. The var Keyword and Type Inference
+
 16-4. Anonymous Types
 
+
+
 null and Nullable Types
+
 17-1. The null Keyword
+
 17-2. Nullable Value Types
+
 17-3. The null-coalescing Operators
 
+
+
 Method Parameters / ref and val
+
 18-1. Named and Optional Parameters
+
 18-2. The out Keyword
+
 18-3. The in Keyword
+
 18-4. The params Keyword
 
+
+
 Misc Learning 4
+
 19-1. Enumerations - The enum Type
+
 19-2. Recursion and File Handling (File IO / System.IO)
 
+
+
 Final Project & Summary
+
 20-1. Final Project (Top Trumps Simulator) (Free to Watch)
+
 20-2. Course Summary (Where do I go from here?) (Free to Watch)
+
 
 ------------------------------------------------------------------------------------------------------------
 
